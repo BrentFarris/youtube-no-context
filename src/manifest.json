@@ -7,7 +7,6 @@
 	"version": "1.0",
 	"description": "This removes YouTube's context/clarify box",
 	"permissions": [
-		"tabs",
 		"scripting"
 	],
 	"host_permissions": [
